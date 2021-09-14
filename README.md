@@ -1,2 +1,7 @@
 # Web-dev-Template
-template for css,js,html
+template for basic webdev
+
+contains:
+
+Standard CSS HTML & JS files
+
